@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Task } from "../Task/Task";
+import { Task } from "./Task/Task";
 export const Form = () => {
     
     const [todos, setTodos] = useState([]);
