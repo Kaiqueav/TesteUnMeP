@@ -1,7 +1,7 @@
 [REACT__BADGE]: https://img.shields.io/badge/React-005CFE?style=for-the-badge&logo=react
 [TAILWIND_BADGE]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [NODE_BADGE]: https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
-[PROJECT__URL]:https://todo-ivory-rho.vercel.app/
+
 <h1 align="center" style="font-weight: bold;"> Todo-List 💻</h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-     <a href="[PROJECT__URL]">📱 Visite esse projeto</a>
+     <a href="https://todo-ivory-rho.vercel.app/">📱 Visite esse projeto</a>
 </p>
 
 
